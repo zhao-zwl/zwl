@@ -1,0 +1,8 @@
+{
+  "name": "zwl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/zhao-zwl/zwl.git",
+  "author": "赵文龙 <565768404@qq.com>",
+  "license": "MIT"
+}
