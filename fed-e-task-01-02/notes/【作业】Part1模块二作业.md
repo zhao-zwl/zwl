@@ -162,7 +162,7 @@ let ex4 = function(n){
 }
 
 ex4 = function(n){
-    return Maybe.of(n).map(x=>parseInt(x))
+    return Maybe.of(n).map(x=>parseInt(x))._value
 }
 
 console.log(ex4(5))
