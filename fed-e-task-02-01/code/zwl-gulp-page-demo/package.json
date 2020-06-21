@@ -1,0 +1,9 @@
+{
+  "name": "zwl-gulp-page-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "zwl-gulp-pages": "^0.1.0"
+  }
+}
