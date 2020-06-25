@@ -23,5 +23,12 @@
 实现过程
 * 创建项目目录   mkdir  项目目录     cd 项目目录
 * 创建package.json   yarn init
+* package.json中添加入口文件  即 "bin":"cli.js"  同时创建cli.js 文件
+* cli.js  中加入特有的文件头  即  #!/usr/bin/env node  //Node CLI 应用入口文件必须要要有这样的文件头
+* linux 或 macOS 修改cli.js文件的读写权限为755     chmod 755 cli.js
+* yarn link  将该模块link到全局  这样在命令行就可以该模块
+
+
+
 ## 2.尝试使用gulp完成项目的自动化构建
 ## 3.使用Grunt完成项目的自动化构建
