@@ -31,4 +31,5 @@
 代码：https://github.com/zhao-zwl/zwl/tree/master/fed-e-task-02-01/code/zwl-scaffolding
 
 ## 2.尝试使用gulp完成项目的自动化构建
+代码：https://github.com/zhao-zwl/zwl/tree/master/fed-e-task-02-01/code/zwl-gulp
 ## 3.使用Grunt完成项目的自动化构建
