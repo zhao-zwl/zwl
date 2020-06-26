@@ -253,11 +253,11 @@ const build = series(
 
 const start = series(compile, serve)
 module.exports = {
-  style,
-  script,
-  page,
-  image,
-  font,
+//   style,
+//   script,
+//   page,
+//   image,
+//   font,
   clean,
   serve,
   build,
