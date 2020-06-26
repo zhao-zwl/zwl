@@ -28,7 +28,7 @@
 * linux 或 macOS 修改cli.js文件的读写权限为755     chmod 755 cli.js
 * yarn link  将该模块link到全局  这样在命令行就可以该模块
 
-
+代码：https://github.com/zhao-zwl/zwl/tree/master/fed-e-task-02-01/code/zwl-scaffolding
 
 ## 2.尝试使用gulp完成项目的自动化构建
 ## 3.使用Grunt完成项目的自动化构建
