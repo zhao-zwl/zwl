@@ -26,9 +26,9 @@
   "scripts": {
     "clean": "gulp clean",
     "lint": "gulp lint",
-    "serve": "gulp serve",
+    "serve": "gulp develop",
     "build": "gulp build",
-    "start": "gulp start",
+    "start": "gulp develop",
     "deploy": "gulp build && gulp deploy --production"
   },
   "browserslist": [

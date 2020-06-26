@@ -251,7 +251,7 @@ const build = series(
   )
 )
 
-const start = series(compile, serve)
+const develop = series(compile, serve)
 module.exports = {
 //   style,
 //   script,
@@ -261,7 +261,7 @@ module.exports = {
   clean,
   serve,
   build,
-  start,
+  develop,
   lint,
   deploy
 }
